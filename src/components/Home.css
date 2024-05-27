@@ -1,0 +1,82 @@
+/* src/components/Home.css */
+
+/* Home.css */
+
+/* Container for the form */
+/* Home.css */
+
+/* Container for the form */
+/* .form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Heading */
+  /* src/components/Home.css */
+
+/* Container for the form */
+/* src/components/Home.css */
+
+/* Container for the form */
+/* src/components/Home.css */
+
+/* Container for the form */
+.form-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Heading */
+  h1 {
+    text-align: center; /* Center the heading */
+    font-size: 40px; /* Increase font size */
+    font-family: 'Times New Roman', Times, serif; /* Change font family to Times New Roman */
+    margin-bottom: 20px; /* Add some spacing below the heading */
+  }
+  
+  /* Form fields */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensure input fields include padding and border in width */
+  }
+  
+  /* Button */
+  .form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Add smooth transition effect */
+  }
+  
+  .form-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  
